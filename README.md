@@ -5,3 +5,4 @@ Cada relatório presente neste repositório representa um "oráculo" de conhecim
 
 Este repositório serve como um guia para profissionais e entusiastas da área de **cybersecurity** que desejam construir um ambiente seguro e robusto utilizando a estabilidade e a confiabilidade do **Debian 12** 🐧.
 
+![Debian Image](https://github.com/AnubisChacal/O4rculumD3i/raw/main/Image/Debia.png)
