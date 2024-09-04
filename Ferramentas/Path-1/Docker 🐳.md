@@ -3,7 +3,8 @@ created: 03-09-2024
 ---
 ## **Introdução**
 Este relatório apresenta uma visão geral dos conceitos fundamentais, principais funcionalidades e casos de uso para segurança ofensiva, defensiva e para NOC. Ele aborda como estas tecnologias e práticas podem ser implementadas para criar um ambiente seguro e eficiente.
-![[Pasted image 20240903205102.png]]
+![Docker_Run](https://github.com/AnubisChacal/O4rculumD3i/blob/main/Ferramentas/Path-1/PRINTs/Pasted%20image%2020240903205102.png)
+
 ## **Conceitos Fundamentais** 📚
 Os conceitos fundamentais abordados incluem a importância da segurança cibernética, tanto em contextos ofensivos quanto defensivos, e a relevância de um Centro de Operações de Rede (NOC) para o monitoramento contínuo de infraestruturas.
 
