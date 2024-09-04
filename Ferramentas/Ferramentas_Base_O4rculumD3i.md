@@ -22,14 +22,17 @@ Ferramenta de linha de comando para transferência de dados com URLs. O Curl é 
 ## **6. Wget** ⬇️
 Outra ferramenta de linha de comando para download de arquivos da web. O Wget é especialmente útil para automatizar downloads em scripts, permitindo a recuperação de arquivos de maneira eficiente.
 
-## **7. Fish** 🐟
-Um shell interativo e amigável, com recursos avançados como autocompletar inteligente, syntax highlighting e fácil configuração. O Fish melhora a produtividade no terminal com uma experiência de uso mais intuitiva.
+## **7. Kitty** 🐱
+Kitty é um terminal gráfico rápido e altamente personalizável que suporta renderização acelerada por GPU, multiplexação de janelas, e uma interface de usuário eficiente. É ideal para quem busca um terminal que combina performance e flexibilidade.
 
-## **8. Neofetch** 💻
+## **8. Zsh** 🐚
+O Zsh é um shell interativo poderoso que oferece recursos avançados como autocompletar inteligente, syntax highlighting, e fácil configuração com suporte a plugins e temas, melhorando a produtividade no terminal.
+
+## **9. Neofetch** 💻
 Ferramenta que exibe informações do sistema de forma estilizada no terminal. Neofetch é ideal para verificar rapidamente detalhes do sistema, como distribuição, kernel, uso de recursos e hardware, apresentando-os de maneira visualmente agradável.
 
-## **9. htop** 🖥️
+## **10. htop** 🖥️
 Um monitor de processos interativo que oferece uma visão detalhada e colorida dos processos em execução, uso de CPU, memória, e outros recursos do sistema. O htop é uma ferramenta indispensável para a monitoração de sistemas em tempo real.
 
-## **10. Xclip** 📋
+## **11. Xclip** 📋
 Ferramenta de linha de comando para manipulação da área de transferência. O Xclip permite copiar e colar texto entre o terminal e a área de transferência do sistema, facilitando o trabalho com comandos e dados no terminal.
