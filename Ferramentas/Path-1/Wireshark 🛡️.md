@@ -3,7 +3,8 @@ created: 03-09-2024
 ---
 ## **Introdução**
 O Wireshark é uma das ferramentas de análise de pacotes de rede mais utilizadas no mundo. Ele permite que administradores de rede, engenheiros de segurança e analistas de sistemas monitorem o tráfego de rede em tempo real, identificando anomalias, falhas e possíveis ataques.
-![[Pasted image 20240903210456.png]]
+![wireshark](https://github.com/AnubisChacal/O4rculumD3i/blob/main/Ferramentas/Path-1/PRINTs/Pasted%20image%2020240903210456.png)
+
 
 ## **Configuração de Diretório** 📁
 No diretório raiz foi criado o seguinte caminho: `/ferramentas/wireshark`. Todos os arquivos `.pcap` gerados pelo Wireshark serão direcionados automaticamente para este diretório, garantindo que as capturas de tráfego sejam armazenadas de forma organizada e centralizada.
