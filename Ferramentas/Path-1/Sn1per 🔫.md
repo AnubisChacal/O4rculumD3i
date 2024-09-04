@@ -3,7 +3,8 @@ created: 03-09-2024
 ---
 ## **Introdução**
 O **Sn1per** é uma ferramenta de automação de reconhecimento e coleta de informações usada em testes de penetração e avaliações de segurança. Criada por **xer0dayz**, o Sn1per é amplamente utilizado por profissionais de segurança cibernética para automatizar tarefas de reconhecimento e identificar vulnerabilidades em ambientes complexos.
-![[Pasted image 20240903210330.png]]
+![Sniper_Run](https://github.com/AnubisChacal/O4rculumD3i/blob/main/Ferramentas/Path-1/PRINTs/Pasted%20image%2020240903210330.png)
+
 ### **Menção ao Criador:**
 - **GitHub:** [https://github.com/1N3/Sn1per](https://github.com/1N3/Sn1per)
 - **Site:** [https://sn1persecurity.com/wordpress/](https://sn1persecurity.com/wordpress/)
