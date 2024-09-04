@@ -3,6 +3,8 @@ created: 03-09-2024
 ---
 ## **Introdução**
 O Wireshark é uma das ferramentas de análise de pacotes de rede mais utilizadas no mundo. Ele permite que administradores de rede, engenheiros de segurança e analistas de sistemas monitorem o tráfego de rede em tempo real, identificando anomalias, falhas e possíveis ataques.
+
+
 ![wireshark](https://github.com/AnubisChacal/O4rculumD3i/blob/main/Ferramentas/Path-1/PRINTs/Pasted%20image%2020240903210456.png)
 
 
